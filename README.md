@@ -16,3 +16,7 @@ Freelance Developer and CS Student at CSUF
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+# 📊 GitHub Stats:
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Happyboili&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Happyboili&include_all_commits=true&theme=dark)
