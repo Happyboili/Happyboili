@@ -19,4 +19,4 @@ Freelance Developer and CS Student at CSUF
 
 # 📊 GitHub Stats:
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Happyboili&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Happyboili&include_all_commits=true&theme=dark)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=Happyboili&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Happyboili&langs_count=4&theme=dark)
